@@ -1,6 +1,6 @@
-# Server Performance Stats (Beginner)
+# Server Performance Stats 
 
-This is a beginner-level DevOps project to analyze basic server performance stats using Bash scripting.
+A bash script to analyse basic server performance stats
 
 ## Features
 
@@ -13,11 +13,14 @@ This is a beginner-level DevOps project to analyze basic server performance stat
 
 ## How to Run
 
-1. Clone or download the repository.
-2. Make the script executable:
+1. Clone the repository
+     ```bash
+     cd server-performance-stats
+   
+3. Make the script executable:
    ```bash
    chmod +x server-stats.sh
-3. Execute the script
+4. Execute the script
     ```bash
     ./server-stats.sh
    
