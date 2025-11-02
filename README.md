@@ -17,7 +17,10 @@ This is a beginner-level DevOps project to analyze basic server performance stat
 2. Make the script executable:
    ```bash
    chmod +x server-stats.sh
-   ./server-stats.sh
+3. Execute the script
+    ```bash
+    ./server-stats.sh
+   
 
    
 
